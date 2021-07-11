@@ -1,0 +1,1 @@
+# Vue_Nuxt_component_practice
